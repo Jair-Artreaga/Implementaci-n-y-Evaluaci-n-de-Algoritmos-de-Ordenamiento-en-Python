@@ -30,7 +30,7 @@ Para ejecutar el proyecto, necesitas tener instalado:
 ## Uso
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/Ordenamiento-Python.git
+   git clone https://github.com/Jair-Artreaga/Implementacion-Evaluacion-Algoritmos-Ordenamiento-Python.git
    ```
 2. Accede al directorio del proyecto:
    ```bash
