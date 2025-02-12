@@ -11,11 +11,11 @@ Este proyecto implementa y evalúa dos métodos de ordenamiento en Python: **Bur
 
 ## Estructura del Proyecto
 ```
-📂 Ordenamiento-Python
-│── 📄 README.md  # Documentación del proyecto
-│── 📄 ordenamiento.ipynb  # Implementación en Jupyter Notebook
+📂 Ordenamiento-Pytho
 │── 📂 data  # Datos generados para las pruebas
 │── 📂 results  # Resultados y análisis comparativo
+│── 📄 README.md  # Documentación del proyecto
+│── 📄 ordenamiento.ipynb  # Implementación en Jupyter Notebook
 ```
 
 ## Instalación y Requisitos
