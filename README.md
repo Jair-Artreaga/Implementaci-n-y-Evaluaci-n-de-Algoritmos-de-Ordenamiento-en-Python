@@ -1,4 +1,4 @@
-# Implementación y Evaluación de Algoritmos de Ordenamiento en Python
+# Implementacion y Evaluación de Algoritmos de Ordenamiento en Python
 
 ## Descripción
 Este proyecto implementa y evalúa dos métodos de ordenamiento en Python: **Burbuja** y **Quicksort**, utilizando Jupyter Notebook. Se analizan sus rendimientos en conjuntos de datos de diferentes tamaños y se documentan los resultados para comprender la eficiencia de cada algoritmo. Además, se fomenta el uso de GitHub como herramienta para la gestión y documentación de proyectos.
