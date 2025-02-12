@@ -1,0 +1,5 @@
+•Generación de listas aleatorias: Se crean listas de diferentes tamaños con valores generados aleatoriamente, 100, 100, 500, 7500 y 10000.
+•Ordenamiento con Burbuja: Se implementa el algoritmo Burbuja, que recorre repetidamente la lista y compara elementos adyacentes, intercambiándolos si están en el orden incorrecto. Este proceso se repite hasta que la lista esté ordenada.
+•Ordenamiento con Quicksort: Se implementa Quicksort, que elige un pivote y divide la lista en tres partes: elementos menores, iguales y mayores al pivote. Luego, aplica recursivamente el mismo procedimiento a las sublistas izquierda y derecha.
+•Medición del tiempo de ejecución: Se utiliza timeit para calcular el tiempo de ejecución de cada algoritmo en diferentes tamaños de listas.
+•Comparación de resultados: Se analizan los tiempos de ejecución obtenidos para determinar la eficiencia de cada método.
